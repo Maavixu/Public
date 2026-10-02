@@ -1,21 +1,28 @@
-Hey, I'm Maavix
+# Hey, I'm Dre Maavi 👋
 
-This is my one and only public repo — most of what I do can't be out in the open, but if you're looking for me, you found the right place.
+### `Developer • Builder • Problem Solver`
+
+I’m a developer who enjoys turning ambitious ideas into real products.
+
+Currently exploring **AI, software engineering, intelligent systems, and modern web technologies** — constantly experimenting with new ideas and pushing projects beyond the usual.
+
+## 🎓 Education
+
+* **Demont University** — Extended Diploma in IT
+* **Deakin University** — Undergraduate
+
+## ⚡ What I Do
+
+* 🤖 AI-powered applications
+* 💻 Full-stack development
+* 🧠 Intelligent systems & automation
+* 🎨 Modern UI/UX
+* 🌐 Web & application development
+* 🔬 Experimental / emerging technology
 
 
-Why So Empty?
-The nature of my work means most of it stays private. This repo exists as a landing spot — a way for people to find me without me having to expose everything I'm working on.
-Think of it as my GitHub business card.
+## 🚀 Currently
 
-Find Me
-The best place to reach me or see more:
-[guns.lol/maavix](https://guns.lol/maavix)
+Building ambitious things, learning new technologies, and turning ideas that start as **“what if?”** into something that actually works.
 
-About Me
-
-I work on things I can't always show
-I keep a low profile, but I'm around
-If you're here, you probably already know what's up
-
-
-Thanks for stopping by.
+> **Think bigger. Build better.**
